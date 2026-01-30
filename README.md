@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-bundle-check.svg)](https://www.npmjs.com/package/ai-bundle-check)
 [![npm downloads](https://img.shields.io/npm/dm/ai-bundle-check.svg)](https://www.npmjs.com/package/ai-bundle-check)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-bundle-check)](https://github.com/lxgic-studios/ai-bundle-check/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Analyze your bundle size and get AI-powered suggestions to reduce it.
