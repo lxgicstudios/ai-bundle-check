@@ -15,41 +15,29 @@
     "build": "tsc"
   },
   "keywords": [
-    "2025-standards",
-    "ai",
-    "ai-2025",
-    "ai-powered",
-    "anthropic",
-    "automation",
     "bundle",
-    "claude",
-    "cli",
-    "developer-productivity",
-    "developer-tools",
-    "discoverability",
-    "generative-ai",
-    "gpt",
-    "javascript",
-    "llm",
-    "llm-optimized",
-    "modern-seo",
-    "optimization",
-    "performance",
-    "performance-optimization",
-    "seo",
-    "seo-2026",
+    "webpack",
     "typescript",
-    "webpack"
+    "javascript",
+    "cli",
+    "AI-powered",
+    "AI-optimized",
+    "performance",
+    "optimization",
+    "seo",
+    "discoverability",
+    "2025-standards",
+    "modern-seo"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-bundle-check#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-bundle-check#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-bundle-check"
+    "url": "https://github.com/lxgicstudios/ai-bundle-check"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-bundle-check/issues"
+    "url": "https://github.com/lxgicstudios/ai-bundle-check/issues"
   },
   "funding": {
     "type": "github",
