@@ -40,7 +40,9 @@
     "bundle-size",
     "optimization",
     "page-speed",
-    "mobile-first"
+    "mobile-first",
+    "seo-optimized",
+    "clawdbot"
   ],
   "license": "MIT",
   "main": "dist/index.js",
